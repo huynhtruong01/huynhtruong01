@@ -38,7 +38,7 @@ class Huynh_Truong:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruong01&show_icons=true&theme=radical)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruong01&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruong01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools 😤
 
