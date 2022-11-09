@@ -37,6 +37,7 @@ class Huynh_Truong:
 ### Github Stats 🤗
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=huynhtruong01&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruong01&layout=compact&theme=tokyonight)
 
 ### Languages and Tools 😤
 
