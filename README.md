@@ -2,7 +2,7 @@
 
 [![@huynhtruong01's Holopin board](https://holopin.io/api/user/board?user=huynhtruong01)](https://holopin.io/@huynhtruong01)
 
-My name is Huynh Phuoc Truong and I'm studying Web Programming in UTC2. My goal is become a Software Engineer.
+😆 My name is Huynh Phuoc Truong and I'm studying Web Programming in UTC2. My goal is become a Software Engineer.
 
 **_JavaScript (TypeScript)_**
 ```js
@@ -33,6 +33,10 @@ class Huynh_Truong:
     self.gender = "male"
     self.hobbies = ['Coding', 'Reading book', 'Listening to music']
 ```
+
+### Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=huynhtruong01&theme=tokyonight)
 
 ### Languages and Tools:
 
