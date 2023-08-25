@@ -4,36 +4,6 @@
 
 😆 My name is Huynh Phuoc Truong and I'm studying Web Programming in UTC2. My goal is become a Software Engineer.
 
-**_JavaScript (TypeScript)_**
-```js
-interface Person {
-  name: string
-  age: number
-  school: string
-  gender: string
-  hobbies: string[]
-}
-
-const myName: Person = {
-  name: "Huynh Phuoc Truong",
-  age: 21,
-  school: "UTC2",
-  gender: "male",
-  hobbies: ['Coding', 'Reading book', 'Listening to music']
-}
-```
-
-**_Python_**
-```py
-class Huynh_Truong:
-  def __init__(self, name, age, school, gender, hobbies):
-    self.name = "Huynh Phuoc Truong"
-    self.age = 21
-    self.school = "UTC2"
-    self.gender = "male"
-    self.hobbies = ['Coding', 'Reading book', 'Listening to music']
-```
-
 ### Github Stats 🤗
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruong01&theme=radical&show_icons=true&count_private=true)
