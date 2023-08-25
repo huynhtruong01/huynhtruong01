@@ -36,7 +36,7 @@ class Huynh_Truong:
 
 ### Github Stats 🤗
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruong01&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruong01&theme=tokyonight&layout=&langs_count=4)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruong01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
