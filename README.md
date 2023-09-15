@@ -6,8 +6,6 @@
 
 ### Github Stats 🤗
 
-<img src="https://github-readme-stats.vercel.app/api?username=huynhtruong01&theme=tokyonight&show_icons=true&count_private=true&custom_title=Github Stats của huynhtruong01&number_format=long" alt='' />
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruong01&theme=tokyonight&show_icons=true&count_private=true&custom_title=Github%20Stats%20c%E1%BB%A7a%20huynhtruong01&number_format=long)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruong01&theme=dark&langs_count=10&layout=compact&hide_progress=false&hide=)](https://github.com/anuraghazra/github-readme-stats)
