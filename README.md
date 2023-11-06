@@ -4,7 +4,7 @@
 
 😆 My name is Huynh Phuoc Truong and I'm studying Web Programming in UTC2. My goal is become a Software Engineer.
 
-➡️ [This is my profile link about myself](https://athetics-huynh-01.vercel.app)
+➡️ [This is my profile link about myself](https://athetics-huynh.vercel.app)
 
 ### Github Stats 🤗
 
